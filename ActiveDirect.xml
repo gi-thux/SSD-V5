@@ -504,7 +504,12 @@
         <Map>
           <entry key="groupMemberAttribute" value="member"/>
         </Map>
-      </Attributes>
+      </Attributes1>
+<Attributes>
+        <Map>
+          <entry key="groupMemberAttribute" value="member"/>
+        </Map>
+      </Attributes1>
     </Schema>
   </Schemas>
   <ApplicationScorecard/>
